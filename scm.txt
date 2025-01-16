@@ -1,0 +1,1 @@
+build periodically and Poll SCM test from Jenkins
